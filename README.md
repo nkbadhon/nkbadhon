@@ -1,5 +1,6 @@
 ## Hi I am Badhon <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
-![Black Minimal Motivation Quote LinkedIn Banner](https://user-images.githubusercontent.com/108449539/205483459-0a374b27-8615-4092-8aaa-637fe9e20f06.png)
+
+![Black Minimal Motivation Quote LinkedIn Banner](https://user-images.githubusercontent.com/108449539/205483709-9823dd07-772e-4e33-8b71-69783097521e.gif)
 
 I am Md Nurunnabi Khan Badhon, a Front End Web Developer. Recently I completed my graduation from BRAC University in Electrical and Electronics Engineering.
 
