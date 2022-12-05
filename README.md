@@ -37,7 +37,7 @@ Recently I completed my graduation from BRAC University in Electrical and Electr
 
 ![nk's github stats](https://github-readme-stats.vercel.app/api?username=nkbadhon&count_private=true&theme=tokyonight&hide=contribs,prs)
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NKBADHON&show_icons=true&theme=radical)
+![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=NKBADHON&show_icons=true&theme=radical)
 
 
 
