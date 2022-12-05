@@ -35,7 +35,7 @@ Recently I completed my graduation from BRAC University in Electrical and Electr
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)</p>
 
-![nk's github stats](https://github-readme-stats.vercel.app/api?username=nkbadhon&count_private=true&theme=tokyonight&hide=contribs,prs)
+![stats](https://github-readme-stats.vercel.app/api?username=nkbadhon&count_private=true&theme=tokyonight&hide=contribs,prs)
 
 ![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=nkbadhon&show_icons=true&theme=radical)
 
